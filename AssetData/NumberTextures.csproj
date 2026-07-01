@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <!-- The Stride version is detected here, from the Stride.* PackageReference. -->
+  <ItemGroup>
+    <PackageReference Include="Stride.Engine" Version="4.4.0.1" />
+    <PackageReference Include="Stride.Core.Assets.CompilerApp" Version="4.4.0.1" IncludeAssets="build;buildTransitive" />
+  </ItemGroup>
+
+</Project>

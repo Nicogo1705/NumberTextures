@@ -1,0 +1,7 @@
+!Texture
+Id: 0618aab9-bf19-4933-b9de-31c77db7909b
+SerializedVersion: {Stride: 2.0.0.0}
+Tags: []
+Source: !file ../Resources/2.png
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}

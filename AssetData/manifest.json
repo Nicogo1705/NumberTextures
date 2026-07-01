@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "com.nicogo.number-textures",
+  "name": "Number Textures",
+  "authors": [{ "name": "Nicogo", "url": "https://github.com/Nicogo1705" }],
+  "description": "10 ready-to-use digit textures (0-9), one Stride Texture asset per glyph.",
+  "category": "Textures",
+  "tags": ["textures", "numbers", "digits", "ui"],
+  "license": "MIT",
+  "thumbnail": "thumbnail.png",
+  "media": [
+    "Resources/0.png", "Resources/1.png", "Resources/2.png", "Resources/3.png",
+    "Resources/4.png", "Resources/5.png", "Resources/6.png", "Resources/7.png",
+    "Resources/8.png", "Resources/9.png"
+  ],
+  "dependencies": []
+}
