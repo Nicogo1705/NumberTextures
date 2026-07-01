@@ -9,9 +9,9 @@
   "license": "MIT",
   "thumbnail": "thumbnail.png",
   "media": [
-    "Resources/0.png", "Resources/1.png", "Resources/2.png", "Resources/3.png",
-    "Resources/4.png", "Resources/5.png", "Resources/6.png", "Resources/7.png",
-    "Resources/8.png", "Resources/9.png"
+    "AssetData/Resources/0.png", "AssetData/Resources/1.png", "AssetData/Resources/2.png", "AssetData/Resources/3.png",
+    "AssetData/Resources/4.png", "AssetData/Resources/5.png", "AssetData/Resources/6.png", "AssetData/Resources/7.png",
+    "AssetData/Resources/8.png", "AssetData/Resources/9.png"
   ],
   "dependencies": []
 }
