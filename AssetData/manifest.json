@@ -9,9 +9,9 @@
   "license": "MIT",
   "thumbnail": "thumbnail.png",
   "media": [
-    "AssetData/Resources/0.png", "AssetData/Resources/1.png", "AssetData/Resources/2.png", "AssetData/Resources/3.png",
-    "AssetData/Resources/4.png", "AssetData/Resources/5.png", "AssetData/Resources/6.png", "AssetData/Resources/7.png",
-    "AssetData/Resources/8.png", "AssetData/Resources/9.png"
+    "AssetData/StrideNumberTextures/Resources/0.png", "AssetData/StrideNumberTextures/Resources/1.png", "AssetData/StrideNumberTextures/Resources/2.png", "AssetData/StrideNumberTextures/Resources/3.png",
+    "AssetData/StrideNumberTextures/Resources/4.png", "AssetData/StrideNumberTextures/Resources/5.png", "AssetData/StrideNumberTextures/Resources/6.png", "AssetData/StrideNumberTextures/Resources/7.png",
+    "AssetData/StrideNumberTextures/Resources/8.png", "AssetData/StrideNumberTextures/Resources/9.png"
   ],
   "dependencies": []
 }
