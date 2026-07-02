@@ -67,7 +67,7 @@ Hierarchy:
                                 PartitionMode: !LightDirectionalShadowMap.PartitionLogarithmic {}
                                 ComputeTransmittance: false
                                 BiasParameters: {}
-                        Intensity: 20.0
+                        Intensity: 2.5
         -   Entity:
                 Id: e5e774ea-68a6-43d6-a4dd-d9d05649e71e
                 Name: Camera
